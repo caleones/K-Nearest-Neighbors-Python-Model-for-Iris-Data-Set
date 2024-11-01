@@ -1,5 +1,5 @@
-- Find the English readme version following this [link](https://github.com/caleones/K-Nearest-Neighbors-Python-Model-for-Iris-Data-Set/new/main?filename=README.md#k-nearest-neighbors-knn-model-implemented-for-the-iris-dataset).
-- Encuentra la versión en Español del readme siguiendo este [enlace](https://github.com/caleones/K-Nearest-Neighbors-Python-Model-for-Iris-Data-Set/new/main?filename=README.md#modelo-k-nearest-neighbors-knn-implementado-para-el-conjunto-de-datos-iris).
+- Find the English readme version following this [link](https://github.com/caleones/K-Nearest-Neighbors-Python-Model-for-Iris-Data-Set?tab=readme-ov-file#k-nearest-neighbors-knn-model-implemented-for-the-iris-dataset).
+- Encuentra la versión en Español del readme siguiendo este [enlace](https://github.com/caleones/K-Nearest-Neighbors-Python-Model-for-Iris-Data-Set?tab=readme-ov-file#modelo-k-nearest-neighbors-knn-implementado-para-el-conjunto-de-datos-iris).
 
 # K-Nearest Neighbors (KNN) model implemented for the Iris dataset
 
